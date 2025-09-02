@@ -6,7 +6,7 @@
 
 ### Problem
 
-While using Texture2Ds and SpriteFonts with a SpriteBatch to create a simple UI or HUD for your game is easy to implement, it can become tedious to accommodate different screen sizes and DPIs.
+While using Texture2Ds and SpriteFonts with SpriteBatch to create a simple UI or HUD for your game is easy to implement, it can become tedious to accommodate different screen sizes and DPIs.
 
 There are a dozen UI frameworks out there for Monogame but many are on the clunky side and/or lack proper support for touch devices. Others are highly opinionated and come with a learning curve.
 
@@ -23,7 +23,5 @@ There are a dozen UI frameworks out there for Monogame but many are on the clunk
 [Myra](https://github.com/rds1983/Myra) 
 
 [Empty Keys](https://www.emptykeys.com/ui_library/)
-
-[GeonBit.UI](https://github.com/RonenNess/GeonBit.UI)
 
 [Apos.Gui](https://github.com/Apostolique/Apos.Gui)
